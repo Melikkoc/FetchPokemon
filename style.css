@@ -1,0 +1,42 @@
+#pokemonLogo {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pokemonSprite {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  background-color: rgb(0, 106, 205);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  padding: 10px 15px;
+}
+
+input {
+  background-color: aliceblue;
+  border: solid 1px black;
+  border-radius: 10px;
+  padding: 10px 15px;
+  margin: 10px;
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
